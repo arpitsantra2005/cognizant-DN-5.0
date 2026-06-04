@@ -125,10 +125,10 @@ https://github.com/seshadrimr/Digital-Nurture-JavaFSE
 
 Author
 
-Debi Beura
+Arpit Santra
 KIIT University
-Mail Id: debibeura10@gmail.com
-GitHub: https://github.com/phoenix3428k/DNS-JavaFSE-Cognizant
+Mail Id: arpitsantra04@gmail.com
+
 
 Status
 
